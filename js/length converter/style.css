@@ -1,0 +1,37 @@
+body{
+    background-color:wheat ;
+    display: inline-block;
+}
+#top{
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left:250%;
+    margin-top:90%;
+   
+   
+}
+.three h2 {
+    margin-top: 50px;
+    color:antiquewhite ;
+}
+.one input{
+    background-color: white;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 210px;
+}
+.two button{
+    background-color: wheat;
+   
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+  
+}
